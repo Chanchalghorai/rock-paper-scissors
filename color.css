@@ -80,6 +80,7 @@ img{
 
     .choice {
         height: 100px;
+        width: 100px;
         border-radius: 50%;
         display: flex;
         justify-content: center;
