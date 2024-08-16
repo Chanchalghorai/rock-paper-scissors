@@ -1,3 +1,6 @@
+let p=document.querySelector("#name");
+p.innerText=prompt("Enter your name....");
+
 let userScore = 0;
 let compScore = 0;
 
