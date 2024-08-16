@@ -86,8 +86,7 @@ img{
         justify-content: center;
         align-items: center;
     }
-    .choice:hover{
-    background-color:#081b31;    
+    .choice:hover{    
     opacity: 50%;
     cursor: pointer;
     }
