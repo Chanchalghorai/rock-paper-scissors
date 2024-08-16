@@ -20,6 +20,7 @@ h1{
     align-items: center;
 }
 .choice:hover{
+    background-color: #081b31;
     cursor: pointer;
 }
 
